@@ -31,5 +31,5 @@
 <img align="center" src="https://profile-counter.glitch.me/VladChernenko/count.svg"/>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=monospace&color=00ffd2&size=25&center=true&vCenter=true&lines=Knowledge+is+a+power">
+<img src="https://readme-typing-svg.herokuapp.com?font=monospace&color=00ffd2&size=25&center=true&vCenter=true&lines=Knowledge+is+power">
 </p>
