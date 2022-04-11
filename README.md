@@ -1,7 +1,7 @@
 <div style="text-align:center" align="center">
   <img src="https://memshop.ru/wp-content/uploads/2021/11/black-men-deal-with-it.gif"/>
   <img src="https://github-readme-stats.vercel.app/api?username=VladChernenko&count_private=true&theme=radical&show_icons=true" alt="Details card" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VladChernenko&layout=compact&theme=material-palenight&hide_border=true&hide=html&card_width=500"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VladChernenko&layout=compact&theme=radical&hide_border=true&hide=html&card_width=500"/>
 </div>
 
 
