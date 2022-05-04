@@ -6,8 +6,12 @@
 
 
 ### 🕊️Contacts
-[<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">](https://t.me/Vlad_Chernenk0)
-[<img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white">](mailto:vladchernenko@protonmail.com)
+<a href="https://t.me/Vlad_Chernenk0">
+<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
+
+<a href="mailto:vladchernenko@protonmail.com">
+<img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white">
+</a>
 
 ### 🐱‍💻Langs
 <div>
