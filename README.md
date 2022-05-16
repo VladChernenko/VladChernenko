@@ -5,6 +5,9 @@
 <img src="https://github-readme-streak-stats.herokuapp.com?user=VladChernenko&theme=dark&date_format=M%20j%5B%2C%20Y%5D&background=0D1116&fire=2945AE&border=5493F7&ring=5493F7&currStreakLabel=5493F7" alt="GitHub stats"/>
 </div>
 
+### 📈Stats
+<!--STATS-->
+<img src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=VladChernenko&bg_color=000000&color=F8D866&line=060F8E&point=FFFFFF&hide_border=true">
 
 ### 🕊️Contacts
 <a href="https://t.me/Vlad_Chernenk0">
