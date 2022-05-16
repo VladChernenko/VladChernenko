@@ -1,11 +1,11 @@
 <div style="text-align:center" align="center">
   <img src="https://memshop.ru/wp-content/uploads/2021/11/black-men-deal-with-it.gif"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=VladChernenko&count_private=true&theme=radical&show_icons=true" alt="Details card" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VladChernenko&layout=compact&theme=radical&hide_border=true&hide=html&card_width=500"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=VladChernenko&count_private=true&theme=tokyonight&show_icons=true" alt="Details card" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VladChernenko&layout=compact&theme=tokyonight&hide_border=true&hide=html&card_width=500"/>
 <img src="https://github-readme-streak-stats.herokuapp.com?user=VladChernenko&theme=dark&date_format=M%20j%5B%2C%20Y%5D&background=0D1116&fire=2945AE&border=5493F7&ring=5493F7&currStreakLabel=5493F7" alt="GitHub stats"/>
 </div>
 
-### 📈Stats
+### 📈Activity graph
 <!--STATS-->
 <img src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=VladChernenko&bg_color=000000&color=F8D866&line=060F8E&point=FFFFFF&hide_border=true">
 
