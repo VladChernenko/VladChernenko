@@ -9,6 +9,10 @@
 <!--STATS-->
 <img src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=VladChernenko&bg_color=000000&color=F8D866&line=060F8E&point=FFFFFF&hide_border=true">
 
+### 🏆Trophy hall
+<img src="https://github-profile-trophy.vercel.app/?username=VladChernenko"/>
+
+
 ### 🕊️Contacts
 <a href="https://t.me/Vlad_Chernenk0">
 <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
