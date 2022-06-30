@@ -45,5 +45,6 @@
 <img align="center" src="https://profile-counter.glitch.me/VladChernenko/count.svg"/>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Major+Mono+Display&color=F70000FF&size=25&center=true&vCenter=true&lines=Knowledge+is+power">
+<img src="https://readme-typing-svg.herokuapp.com?font=Major+Mono+Display&color=F70000FF&size=25&center=true&vCenter=true&lines=Knowledge+is+power"><br/>
+<img src="https://c.tenor.com/3bTxZ4HdrysAAAAC/pixels-neon.gif">
 </p>
