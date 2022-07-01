@@ -32,16 +32,15 @@
  
 </div>
   
-### 🔗Links
+### 🔗Links (Sorry,have no time😃)
 <a href="https://stackoverflow.com/users/18521368/vladchernenko">
   <img src="https://stackoverflow.com/users/flair/18521368.png" width="208" height="58" alt="profile for VladChernenko at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for VladChernenko at Stack Overflow, Q&amp;A for professional and enthusiast programmers">
 </a>
 
 <a href="https://app.hackthebox.com/profile/315366">
-<img src="https://www.hackthebox.com/badge/image/315366">(Sorry,have no time😃)
+<img src="https://www.hackthebox.com/badge/image/315366">
 </a>
-
-![tryhackme stats](https://raw.githubusercontent.com/<SET_USERNAME_HERE>/<SET_USERNAME_HERE>/master/assets/thm_propic.png)
+<img src="./assets/thm_propic.png">
 
 ### 👁️Total visits
 <img align="center" src="https://profile-counter.glitch.me/VladChernenko/count.svg"/>
