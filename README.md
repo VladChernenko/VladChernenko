@@ -41,6 +41,8 @@
 <img src="https://www.hackthebox.com/badge/image/315366">(Sorry,have no time😃)
 </a>
 
+![tryhackme stats](https://raw.githubusercontent.com/<SET_USERNAME_HERE>/<SET_USERNAME_HERE>/master/assets/thm_propic.png)
+
 ### 👁️Total visits
 <img align="center" src="https://profile-counter.glitch.me/VladChernenko/count.svg"/>
 
