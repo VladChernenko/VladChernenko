@@ -1,6 +1,6 @@
 <div style="text-align:center" align="center">
   <img src="https://memshop.ru/wp-content/uploads/2021/11/black-men-deal-with-it.gif"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=VladChernenko&count_private=true&theme=tokyonight&show_icons=true" alt="Details card" />
+  <img src="https://metrics.lecoq.io/VladChernenko?template=classic&languages=1&achievements=1&base.indepth=false&base.hireable=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=Europe%2FKiev" alt="Details card" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VladChernenko&layout=compact&theme=tokyonight&hide_border=true&hide=html&card_width=500"/>
 <img src="https://github-readme-streak-stats.herokuapp.com?user=VladChernenko&theme=dark&date_format=M%20j%5B%2C%20Y%5D&background=0D1116&fire=2945AE&border=5493F7&ring=5493F7&currStreakLabel=5493F7" alt="GitHub stats"/>
 </div>
