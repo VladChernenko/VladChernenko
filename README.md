@@ -69,8 +69,19 @@
 ### ❤️Donate
 
 <a href="https://ru.mastering.klyntar.org/beginning/socialnye-seti-and-ssylki" target="_blank">
+<img src="https://en.cryptobadges.io/badge/big/bc1qkuce4tftqnpc3m0k20wy8lxze843c8qqms2kr9">
+</a>
+<br/>
+<a href="https://ru.mastering.klyntar.org/beginning/socialnye-seti-and-ssylki" target="_blank">
 <img src="https://en.cryptobadges.io/badge/big/0x6BE4d9df516783083b3DfE7b9A9Dd74DE0623A26">
 </a>
-
+<br/>
+<a href="https://ru.mastering.klyntar.org/beginning/socialnye-seti-and-ssylki" target="_blank">
+<img src="https://en.cryptobadges.io/badge/big/LRAUdHk9qT4xA7fh49b3Y4DzddFWTLApaX">
+</a>
+<br/>
+<a href="https://ru.mastering.klyntar.org/beginning/socialnye-seti-and-ssylki" target="_blank">
+<img src="https://en.cryptobadges.io/badge/big/rKvnV5DsWutNya7tRUsN4SjjzT17nGV6jW">
+</a>
 
 </div>
