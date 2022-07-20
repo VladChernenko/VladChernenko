@@ -68,7 +68,9 @@
 
 ### ❤️Donate
 
-<a href="https://www.buymeacoffee.com/VladChernenko" target="_blank"><img src="https://user-images.githubusercontent.com/53381472/180090482-9a3672e9-d826-4743-8e6a-45743605ae6d.jpg" alt="Buy Me A Coffee" width="150" ></a>
+<a href="https://ru.mastering.klyntar.org/beginning/socialnye-seti-and-ssylki" target="_blank">
+<img src="https://en.cryptobadges.io/badge/big/0x6BE4d9df516783083b3DfE7b9A9Dd74DE0623A26">
+</a>
 
 
 </div>
