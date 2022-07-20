@@ -5,13 +5,18 @@
 <img src="https://github-readme-streak-stats.herokuapp.com?user=VladChernenko&theme=dark&date_format=M%20j%5B%2C%20Y%5D&background=0D1116&fire=2945AE&border=5493F7&ring=5493F7&currStreakLabel=5493F7" alt="GitHub stats"/>
 </div>
 
+<br/>
+
 ### 📈Activity graph
 <!--STATS-->
 <img src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=VladChernenko&bg_color=000000&color=F8D866&line=060F8E&point=FFFFFF&hide_border=true">
 
+<br/>
+
 ### 🏆Trophy hall
 <img src="https://github-profile-trophy.vercel.app/?username=VladChernenko"/>
 
+<br/>
 
 ### 🕊️Contacts
 <a href="https://t.me/Vlad_Chernenk0">
@@ -20,6 +25,8 @@
 <a href="mailto:vladchernenko@protonmail.com">
 <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white">
 </a>
+
+<br/><br/>
 
 ### 🐱‍💻Langs
 <div>
@@ -31,6 +38,8 @@
 <img src="https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge&logo=WebAssembly&logoColor=white"/>
  
 </div>
+
+<br/>
   
 ### 🔗Links (Sorry,have no time😃)
 <a href="https://stackoverflow.com/users/18521368/vladchernenko">
@@ -43,6 +52,7 @@
 <img src="https://www.hackthebox.com/badge/image/315366">
 </a>
 
+<br/><br/>
 
 ### 👁️Total visits
 <img align="center" src="https://profile-counter.glitch.me/VladChernenko/count.svg"/>
@@ -51,3 +61,14 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Major+Mono+Display&color=F70000FF&size=25&center=true&vCenter=true&lines=Knowledge+is+power"><br/>
 <img src="https://c.tenor.com/3bTxZ4HdrysAAAAC/pixels-neon.gif">
 </p>
+
+<br/><br/>
+
+<div align="center">
+
+### ❤️Donate
+
+<a href="https://www.buymeacoffee.com/VladChernenko" target="_blank"><img src="https://user-images.githubusercontent.com/53381472/180090482-9a3672e9-d826-4743-8e6a-45743605ae6d.jpg" alt="Buy Me A Coffee" width="150" ></a>
+
+
+</div>
