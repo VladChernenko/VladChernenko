@@ -46,7 +46,7 @@
   <img src="https://stackoverflow.com/users/flair/18521368.png" width="208" height="58" alt="profile for VladChernenko at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for VladChernenko at Stack Overflow, Q&amp;A for professional and enthusiast programmers">
 </a>
 <a href="">
-<img src="./assets/MausClaus-OMNI.png" alt="TryHackMe">
+<img src="https://user-images.githubusercontent.com/53381472/182438970-af5d2836-62a0-4f8e-8486-32cf46bbd5bb.png" alt="TryHackMe">
 </a>
 <a href="https://app.hackthebox.com/profile/315366">
 <img src="https://www.hackthebox.com/badge/image/315366">
