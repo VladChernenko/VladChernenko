@@ -124,19 +124,19 @@
 
 ### ❤️Donate
 
-<a href="https://ru.mastering.klyntar.org/beginning/socialnye-seti-and-ssylki" target="_blank">
+<a href="https://mastering.klyntar.org/beginning/social-media#support-klyntar" target="_blank">
 <img src="https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=orange">
 </a>
 <br/>
-<a href="https://ru.mastering.klyntar.org/beginning/socialnye-seti-and-ssylki" target="_blank">
+<a href="https://mastering.klyntar.org/beginning/social-media#support-klyntar" target="_blank">
 <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white&color=black">
 </a>
 <br/>
-<a href="https://ru.mastering.klyntar.org/beginning/socialnye-seti-and-ssylki" target="_blank">
+<a href="https://mastering.klyntar.org/beginning/social-media#support-klyntar" target="_blank">
 <img src="https://img.shields.io/badge/Litecoin-A6A9AA?style=for-the-badge&logo=Litecoin&logoColor=white&color=black">
 </a>
 <br/>
-<a href="https://ru.mastering.klyntar.org/beginning/socialnye-seti-and-ssylki" target="_blank">
+<a href="https://mastering.klyntar.org/beginning/social-media#support-klyntar" target="_blank">
 <img src="https://img.shields.io/badge/monero-FF6600?style=for-the-badge&logo=monero&logoColor=white">
 </a>
 
