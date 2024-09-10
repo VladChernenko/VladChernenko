@@ -117,27 +117,3 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Major+Mono+Display&color=F70000FF&size=25&center=true&vCenter=true&lines=Knowledge+is+power"><br/>
 <img src="https://c.tenor.com/3bTxZ4HdrysAAAAC/pixels-neon.gif">
 </p>
-
-<br/><br/>
-
-<div align="center">
-
-### ❤️Donate
-
-<a href="https://mastering.klyntar.org/beginning/social-media#support-klyntar" target="_blank">
-<img src="https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=orange">
-</a>
-<br/>
-<a href="https://mastering.klyntar.org/beginning/social-media#support-klyntar" target="_blank">
-<img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white&color=black">
-</a>
-<br/>
-<a href="https://mastering.klyntar.org/beginning/social-media#support-klyntar" target="_blank">
-<img src="https://img.shields.io/badge/Litecoin-A6A9AA?style=for-the-badge&logo=Litecoin&logoColor=white&color=black">
-</a>
-<br/>
-<a href="https://mastering.klyntar.org/beginning/social-media#support-klyntar" target="_blank">
-<img src="https://img.shields.io/badge/monero-FF6600?style=for-the-badge&logo=monero&logoColor=white">
-</a>
-
-</div>
