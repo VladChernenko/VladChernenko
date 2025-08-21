@@ -7,21 +7,12 @@
 
 <br/>
 
-
-
-
-### 📈Activity graph
-<!--STATS-->
-<img src="https://github-readme-activity-graph.cyclic.app/graph/?username=VladChernenko&bg_color=000000&color=F8D866&line=060F8E&point=FFFFFF&hide_border=true">
-
-<br/>
-
 ### 🏆Trophy hall
 <img src="https://github-profile-trophy.vercel.app/?username=VladChernenko"/>
 
 <br/>
 
-### 🐱‍💻Skills & Knowledges
+### 🐱‍💻Skills
 <div>
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
@@ -92,9 +83,6 @@
 
 <div style="display:flex">
 <div>
-<a href="https://stackoverflow.com/users/18521368/vladchernenko">
-  <img src="https://stackoverflow.com/users/flair/18521368.png" width="208" height="58" alt="profile for VladChernenko at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for VladChernenko at Stack Overflow, Q&amp;A for professional and enthusiast programmers">
-</a>
 <a href="">
 <img src="https://tryhackme-badges.s3.amazonaws.com/MausClaus.png" alt="TryHackMe">
 </a>
@@ -109,9 +97,6 @@
 
 </div>
 <br/><br/>
-
-### 👁️Total visits
-<img align="center" src="https://profile-counter.glitch.me/VladChernenko/count.svg"/>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Major+Mono+Display&color=F70000FF&size=25&center=true&vCenter=true&lines=Knowledge+is+power"><br/>
